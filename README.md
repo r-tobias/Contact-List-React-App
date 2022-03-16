@@ -1,3 +1,21 @@
+# Contact List
+## Project Description 
+Functional Component Contact List
+Let's create a contact list using functional components and mapping.
+
+Here is what the finished application will look like:
+
+So let's break this down:
+
+1. You have a list of contacts that has to be  put into /src/data/contact.json
+2. You need to bring this data into your App.js
+3. You will have to create a new component to hold each individual contact ( hint you probably want to use Map here)
+4. At the very least for styling your app should be in a list of contacts down the center of the page with the photo in a circle on the left and the information on the right
+5. Bonus!!! If you want to go above and beyond create the layout shown in the GIF on this page that looks like a phone screen and only shows a few contacts at a time
+6. Ultra Bonus!!! Recreate the mockup shown below in React and have the contacts render on the screen!
+
+Link for display example: https://docs.google.com/document/d/13e-6jI42XxNfgjSMTA3wjnLoxtxcqQVQPRo4ZD0AEFI/edit?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
