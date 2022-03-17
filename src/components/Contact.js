@@ -1,7 +1,6 @@
 function Contact ({contactData}) {
 
     const {name, phone, cell, picture} = contactData
-    // const {first, last} = name // tried to destructure it further but it doesnt work
 
     return (
         <div className="testing">
